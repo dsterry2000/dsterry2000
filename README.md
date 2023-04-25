@@ -11,7 +11,7 @@
 -->
 
 I work for Alabama Power located in ... you guessed it, Alabama! <br><br>
-I work as a SCADA technician. That is Supervisory Control and Data Aquisition.
+I work as a SCADA technician. SCADA is Supervisory Control and Data Aquisition.
 
 <hr>
 <h3>🔭 I Am Currently Working On</h3>
